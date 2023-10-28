@@ -1,0 +1,95 @@
+/* Resetting some default styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f0f0f0; /* Set a background color */
+}
+
+/* Styling the header */
+header {
+  text-align: center;
+  padding: 20px 0;
+  background-color: #000; /* Header background color */
+  color: #fff; /* Header text color */
+}
+
+h1 {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+/* Styling the main content area */
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px 0;
+}
+
+/* Styling the map element */
+#map {
+  width: 100%;
+  max-width: 1000px; /* Adjust the max-width as needed */
+  height: 400px;
+  display: block;
+}
+
+/* Styling the booking section */
+#booking {
+  margin-top: 20px;
+  text-align: center; /* Center-align the booking section */
+}
+
+h2 {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+form {
+  width: 100%; /* Make the form full width */
+  max-width: 300px; /* Adjust the max-width as needed */
+  margin: 0 auto;
+}
+
+/* Styling input fields */
+input {
+  width: 100%;
+  padding: 10px;
+  margin: 5px 0;
+  border: 1px solid #ccc;
+  display: block;
+}
+
+/* Styling the button */
+button {
+  width: 100%;
+  padding: 10px;
+  background-color: #000;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+/* Styling the footer */
+footer {
+  text-align: center;
+  padding: 20px 0;
+  background-color: #000; /* Footer background color */
+  color: #fff; /* Footer text color */
+}
+
+/* Styling the "Vezi rezervările mele" button */
+#view-bookings-button {
+  display: block;
+  background-color: #000;
+  color: #fff;
+  padding: 10px;
+  width: 100%;
+  margin-top: 20px;
+  border: none;
+  cursor: pointer;
+}
+
+/* Add more custom styling as needed */
+

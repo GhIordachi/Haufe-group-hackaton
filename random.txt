@@ -1,0 +1,128 @@
+<section id="map">
+      <h2>Locații de închiriere a trotinetelor electrice</h2>
+      <ul class="locations">
+        <li>
+          <strong>Adresă:</strong> Strada Alba Iulia, nr. 10, Timișoara
+          
+          <a href="https://www.google.com/maps/place/Strada+Alba+Iulia+10,+Timi%C8%99oara+300254/@45.7536604,21.2233323,15.86z/data=!4m5!3m4!1s0x47455d7fef41414f:0x2e8a5e7e0f35e728!8m2!3d45.7540527!4d21.2264109?entry=ttu" class="map-link">Vezi pe hartă</a>
+        </li>
+        <li>
+          <strong>Adresă:</strong> Bulevardul Revoluției, nr. 30, Timișoara
+          
+          <a href="https://www.google.com/maps/place/Bulevardul+Revolu%C8%9Biei+din+1989+30,+Timi%C8%99oara/@45.7557436,21.2370699,17z/data=!3m1!4b1!4m5!3m4!1s0x4745677c514251a9:0xb5110528c4db25ed!8m2!3d45.7557399!4d21.2396448?entry=ttu" class="map-link">Vezi pe hartă</a>
+        </li>
+        <li>
+          <strong>Adresă:</strong> Piața Victoriei, nr. 1, Timișoara
+          
+          <a href="https://www.google.com/maps/place/Pia%C8%9Ba+Victoriei+1,+Timi%C8%99oara/@45.7530907,21.2234121,17z/data=!3m1!4b1!4m6!3m5!1s0x47455d7f82ff7519:0x42c8c9fd583128d1!8m2!3d45.753087!4d21.225987!16s%2Fg%2F11csdf7b15?entry=ttu" class="map-link">Vezi pe hartă</a>
+        </li>
+        <li>
+            <strong>Adresă:</strong> Strada Mareșal Constantin Prezan nr. 1, Timișoara
+            
+            <a href="https://www.google.com/maps/place/Str.+Mare%C8%99al+Constantin+Prezan+1,+Timi%C8%99oara/@45.7306627,21.2510937,17z/data=!3m1!4b1!4m5!3m4!1s0x47455de7fc4762cf:0x2d5ee3da5b02b7aa!8m2!3d45.730659!4d21.2536686?entry=ttu" class="map-link">Vezi pe hartă</a>
+        </li>
+        <li>
+            <strong>Adresă:</strong> Strada Eugeniu de Savoya nr. 5, Timișoara
+            
+            <a href="https://www.google.com/maps/place/Strada+Eugeniu+de+Savoya+5,+Timi%C8%99oara/@45.7565477,21.2272361,17z/data=!3m1!4b1!4m6!3m5!1s0x4745677f86010a71:0xa7a9b919869cbbd9!8m2!3d45.756544!4d21.229811!16s%2Fg%2F11c2bpcrlm?entry=ttu" class="map-link">Vezi pe hartă</a>
+        </li>
+        <li>
+            <strong>Adresă:</strong> Strada Mărășești nr. 10, Timișoara
+            
+            <a href="https://www.google.com/maps/place/Strada+M%C4%83r%C4%83%C8%99e%C8%99ti+10,+Timi%C8%99oara/@45.7573059,21.2234947,17z/data=!3m1!4b1!4m6!3m5!1s0x47456780f831a8bd:0xb0bb83f6c4caea03!8m2!3d45.7573022!4d21.2260696!16s%2Fg%2F11f7lh2242?entry=ttu" class="map-link">Vezi pe hartă</a>
+        </li>
+        <li>
+            <strong>Adresă:</strong> Strada Iuliu Maniu nr. 15, Timișoara
+            
+            <a href="https://www.google.com/maps/place/Bulevardul+Iuliu+Maniu+15,+Timi%C8%99oara+300425/@45.7407715,21.2059072,17z/data=!3m1!4b1!4m6!3m5!1s0x47455d73720861af:0xa82250965ae890fd!8m2!3d45.7407678!4d21.2084821!16s%2Fg%2F11csgrd5g9?entry=ttu" class="map-link">Vezi pe hartă</a>
+        </li>
+        <li>
+            <strong>Adresă:</strong> Strada Gheorghe Bariț nr. 20, Timișoara
+            
+            <a href="https://www.google.com/maps/place/Strada+Gheorghe+Bari%C8%9Biu+20,+Timi%C8%99oara+300425/@45.7468012,21.1989081,17z/data=!3m1!4b1!4m6!3m5!1s0x47455d6ec1e541dd:0x7d229d41efac98f6!8m2!3d45.7467975!4d21.201483!16s%2Fg%2F11jrd3mgkv?entry=ttu" class="map-link">Vezi pe hartă</a>
+        </li>
+        <li>
+            <strong>Adresă:</strong> Strada Vasile Alecsandri nr. 25, Timișoara
+            
+            <a href="https://www.google.com/maps/place/Strada+Vasile+Alecsandri+25,+Timi%C8%99oara+300254/@45.7573896,21.2252972,17z/data=!3m1!4b1!4m5!3m4!1s0x474567804a12a501:0x81c74587bb7b38ca!8m2!3d45.7573859!4d21.2278721?entry=ttu" class="map-link">Vezi pe hartă</a>
+        </li>
+        <li>
+            <strong>Adresă:</strong> Strada Mihai Eminescu nr. 30, Timișoara
+            
+            <a href="https://www.google.com/maps/place/Strada+Mihai+Eminescu+30,+Dumbr%C4%83vi%C8%9Ba/@45.8019779,21.2491203,17z/data=!3m1!4b1!4m5!3m4!1s0x4745665aebac4711:0xe03e53d507352b6e!8m2!3d45.8019742!4d21.2516952?entry=ttu" class="map-link">Vezi pe hartă</a>
+        </li>
+      </ul>
+    </section>
+
+
+
+
+
+
+
+    const markerPositions = [
+    new google.maps.LatLng(45.7536604, 21.2233323),
+    new google.maps.LatLng(45.7557436, 21.2370699),
+    new google.maps.LatLng(45.7530907,21.2234121),
+    new google.maps.LatLng(45.7306627,21.2510937),
+    new google.maps.LatLng(45.7565477,21.2272361),
+    new google.maps.LatLng(45.7573059,21.2234947),
+    new google.maps.LatLng(45.7407715,21.2059072),
+    new google.maps.LatLng(45.7468012,21.1989081),
+    new google.maps.LatLng(45.7573896,21.2252972),
+    new google.maps.LatLng(45.8019779,21.2491203),
+    // ... add other positions for markers here
+];
+
+
+
+
+<style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f0f0;
+      margin: 0;
+      padding: 0;
+    }
+
+    h1 {
+      text-align: center;
+      background-color: #333;
+      color: #fff;
+      padding: 20px 0;
+      margin: 0;
+    }
+
+    table {
+      margin: 0 auto; /* Center align the table */
+      border-collapse: collapse;
+      width: 80%; /* Adjust the width as needed */
+    }
+
+    table, th, td {
+      border: 1px solid #ddd;
+    }
+
+    th, td {
+      padding: 8px;
+      text-align: center; /* Center align table cells */
+    }
+
+    tr:nth-child(even) {
+      background-color: #f2f2f2;
+    }
+
+    footer {
+      text-align: center;
+      padding: 20px 0;
+    }
+
+    button {
+      background-color: #333;
+      color: #fff;
+      border: none;
+      cursor: pointer;
+      padding: 10px 20px;
+      margin: 10px;
+    }
+  </style>

@@ -1,0 +1,86 @@
+{
+  "bookings": [
+    {
+      "start_location": "Strada Alba Iulia, nr. 10, Timișoara",
+      "end_location": "Strada Alba Iulia, nr. 10, Timișoara",
+      "booking_time": "20:32",
+      "user_id": "3",
+      "id": 4
+    },
+    {
+      "start_location": "Strada Vasile Alecsandri nr. 25, Timișoara",
+      "end_location": "Bulevardul Revoluției, nr. 30, Timișoara",
+      "booking_time": "19:43",
+      "user_id": "3",
+      "id": 5
+    },
+    {
+      "start_location": "Strada Mareșal Constantin Prezan nr. 1, Timișoara",
+      "end_location": "Piața Victoriei, nr. 1, Timișoara",
+      "booking_time": "21:50",
+      "user_id": "3",
+      "id": 6
+    },
+    {
+      "start_location": "Strada Alba Iulia, nr. 10, Timișoara",
+      "end_location": "Strada Alba Iulia, nr. 10, Timișoara",
+      "booking_time": "",
+      "user_id": "3",
+      "id": 7
+    },
+    {
+      "start_location": "Strada Alba Iulia, nr. 10, Timișoara",
+      "end_location": "Strada Alba Iulia, nr. 10, Timișoara",
+      "booking_time": "",
+      "user_id": "3",
+      "id": 8
+    },
+    {
+      "start_location": "Strada Alba Iulia, nr. 10, Timișoara",
+      "end_location": "Strada Alba Iulia, nr. 10, Timișoara",
+      "booking_time": "",
+      "user_id": "1",
+      "id": 9
+    },
+    {
+      "start_location": "Strada Mărășești nr. 10, Timișoara",
+      "end_location": "Strada Vasile Alecsandri nr. 25, Timișoara",
+      "booking_time": "18:42",
+      "user_id": "1",
+      "id": 10
+    }
+  ],
+  "users": [
+    {
+      "username": "user",
+      "password": "user",
+      "id": 1
+    },
+    {
+      "username": "user",
+      "password": "user",
+      "id": 2
+    },
+    {
+      "username": "user",
+      "password": "user",
+      "id": 3
+    },
+    {
+      "username": "admin",
+      "password": "admin",
+      "isAdmin": true,
+      "id": 3
+    },
+    {
+      "username": "user1",
+      "password": "user1",
+      "id": 4
+    },
+    {
+      "username": "user2",
+      "password": "user2",
+      "id": 5
+    }
+  ]
+}

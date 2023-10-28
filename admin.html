@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Bookings</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f0f0;
+      margin: 0;
+      padding: 0;
+    }
+
+    h1 {
+      text-align: center;
+      background-color: #333;
+      color: #fff;
+      padding: 20px 0;
+      margin: 0;
+    }
+
+    table {
+      margin: 0 auto; /* Center align the table */
+      border-collapse: collapse;
+      width: 80%; /* Adjust the width as needed */
+    }
+
+    table, th, td {
+      border: 1px solid #ddd;
+    }
+
+    th, td {
+      padding: 8px;
+      text-align: center; /* Center align table cells */
+    }
+
+    tr:nth-child(even) {
+      background-color: #f2f2f2;
+    }
+
+    footer {
+      text-align: center;
+      padding: 20px 0;
+    }
+
+    button {
+      background-color: #333;
+      color: #fff;
+      border: none;
+      cursor: pointer;
+      padding: 10px 20px;
+      margin: 10px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Reservations</h1>
+  <table>
+    <thead>
+      <tr>
+        <th>Booking ID</th>
+        <th>User</th>
+        <th>Start Location</th>
+        <th>End Location</th>
+        <th>Booking Time</th>
+        <th>Action</th>
+      </tr>
+    </thead>
+    <tbody id="booking-table-body">
+      <!-- Booking data will be displayed here -->
+    </tbody>
+  </table>
+  <footer>
+    <button id="logout-button">Logout</button>
+    <button id="go-to-index-button" onclick="goToIndexPage()">Go Back</button>
+  </footer>
+  <script src="admin.js"></script>
+</body>
+</html>

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Aplicație web pentru trotinete electrice</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDsM1TSsxpyH1280BFUlQ8l6Mf2lEQjtwI&callback=initMap"></script>
+</head>
+<body>
+  <header>
+    <h1>TimTrotinete</h1>
+  </header>
+  <main>
+    <h2>Harta cu locațiile trotinetelor electrice</h2>
+    <section id="map">
+      <div id="map-container"></div>
+    </section>    
+    <section id="booking">
+      <h2>Rezervă o trotinetă</h2>
+      <form action="javascript:void(0);" method="POST" onsubmit="saveFormData(event)">
+        <label for="start_location">Locația de pornire:</label>
+        <select name="start_location" id="start_location">
+          <option value="Strada Alba Iulia, nr. 10, Timișoara">Strada Alba Iulia, nr. 10, Timișoara</option>
+          <option value="Bulevardul Revoluției, nr. 30, Timișoara">Bulevardul Revoluției, nr. 30, Timișoara</option>
+          <option value="Piața Victoriei, nr. 1, Timișoara">Piața Victoriei, nr. 1, Timișoara</option>
+          <option value="Strada Mareșal Constantin Prezan nr. 1, Timișoara">Strada Mareșal Constantin Prezan nr. 1, Timișoara</option>
+          <option value="Strada Eugeniu de Savoya nr. 5, Timișoara">Strada Eugeniu de Savoya nr. 5, Timișoara</option>
+          <option value="Strada Mărășești nr. 10, Timișoara">Strada Mărășești nr. 10, Timișoara</option>
+          <option value="Strada Iuliu Maniu nr. 15, Timișoara">Strada Iuliu Maniu nr. 15, Timișoara</option>
+          <option value="Strada Gheorghe Bariț nr. 20, Timișoara">Strada Gheorghe Bariț nr. 20, Timișoara</option>
+          <option value="Strada Vasile Alecsandri nr. 25, Timișoara">Strada Vasile Alecsandri nr. 25, Timișoara</option>
+          <option value="Strada Mihai Eminescu nr. 30, Timișoara">Strada Mihai Eminescu nr. 30, Timișoara</option>
+        </select>
+        <label for="end_location">Locația de sosire:</label>
+        <select name="end_location" id="end_location">
+          <option value="Strada Alba Iulia, nr. 10, Timișoara">Strada Alba Iulia, nr. 10, Timișoara</option>
+          <option value="Bulevardul Revoluției, nr. 30, Timișoara">Bulevardul Revoluției, nr. 30, Timișoara</option>
+          <option value="Piața Victoriei, nr. 1, Timișoara">Piața Victoriei, nr. 1, Timișoara</option>
+          <option value="Strada Mareșal Constantin Prezan nr. 1, Timișoara">Strada Mareșal Constantin Prezan nr. 1, Timișoara</option>
+          <option value="Strada Eugeniu de Savoya nr. 5, Timișoara">Strada Eugeniu de Savoya nr. 5, Timișoara</option>
+          <option value="Strada Mărășești nr. 10, Timișoara">Strada Mărășești nr. 10, Timișoara</option>
+          <option value="Strada Iuliu Maniu nr. 15, Timișoara">Strada Iuliu Maniu nr. 15, Timișoara</option>
+          <option value="Strada Gheorghe Bariț nr. 20, Timișoara">Strada Gheorghe Bariț nr. 20, Timișoara</option>
+          <option value="Strada Vasile Alecsandri nr. 25, Timișoara">Strada Vasile Alecsandri nr. 25, Timișoara</option>
+          <option value="Strada Mihai Eminescu nr. 30, Timișoara">Strada Mihai Eminescu nr. 30, Timișoara</option>
+          <!-- Add more options as needed -->
+        </select>
+        <label for="booking_time">Ora de rezervare:</label>
+        <input type="time" name="booking_time" id="booking_time" placeholder="Ora de rezervare">
+        <p id="booking-message" style="color: red; font-size: 14px; margin-bottom: 10px;">Ai 2 ore de utilizare a trotinetei!</p>
+        <button type="submit">Rezervă</button>
+        <p></p>
+      </form>
+      <button id="view-bookings-button">Vezi rezervările mele</button>
+      <p></p>
+      <button id="logout-button">Logout</button>
+    </section>
+                            
+  </main>
+  <footer>
+    <p>Copyright &copy; Gheorghe Iordachi</p>
+  </footer>
+  <script src="script.js"></script>
+</body>
+</html>
